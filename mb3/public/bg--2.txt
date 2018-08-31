@@ -1,0 +1,666 @@
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-07 23:05:12
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+      0 => 
+      array (
+        'id' => '111475',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522607',
+        'gameId' => '17',
+        'issueId' => '20180707463',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '69',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:08:51',
+        'gameName' => '三分时时彩',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:08:51',
+      ),
+      1 => 
+      array (
+        'id' => '111476',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522606',
+        'gameId' => '17',
+        'issueId' => '20180707463',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '69',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:08:51',
+        'gameName' => '三分时时彩',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:08:51',
+      ),
+      2 => 
+      array (
+        'id' => '111477',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522605',
+        'gameId' => '17',
+        'issueId' => '20180707463',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '69',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:08:51',
+        'gameName' => '三分时时彩',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:08:51',
+      ),
+      3 => 
+      array (
+        'id' => '111478',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522604',
+        'gameId' => '17',
+        'issueId' => '20180707463',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '69',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:08:51',
+        'gameName' => '三分时时彩',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:08:51',
+      ),
+      4 => 
+      array (
+        'id' => '111479',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522603',
+        'gameId' => '17',
+        'issueId' => '20180707463',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '69',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:08:51',
+        'gameName' => '三分时时彩',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:08:51',
+      ),
+      5 => 
+      array (
+        'id' => '111482',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522636',
+        'gameId' => '53',
+        'issueId' => '201807071390',
+        'aAmount' => -5,
+        'playName' => '和值11',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '539',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:31',
+        'gameName' => '分分快三',
+        'orderFrom' => '1',
+        'bAmount' => 5,
+        'moduleId' => '1',
+        'validBet' => '5',
+        'beijing_bet_time' => '2018-07-07 23:09:31',
+      ),
+      6 => 
+      array (
+        'id' => '111483',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522635',
+        'gameId' => '53',
+        'issueId' => '201807071390',
+        'aAmount' => -5,
+        'playName' => '和值14',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '542',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:31',
+        'gameName' => '分分快三',
+        'orderFrom' => '1',
+        'bAmount' => 5,
+        'moduleId' => '1',
+        'validBet' => '5',
+        'beijing_bet_time' => '2018-07-07 23:09:31',
+      ),
+      7 => 
+      array (
+        'id' => '111484',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522634',
+        'gameId' => '53',
+        'issueId' => '201807071390',
+        'aAmount' => 38.45,
+        'playName' => '和值13',
+        'moduleName' => '彩票',
+        'orderStatus' => '2',
+        'playId' => '541',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:31',
+        'gameName' => '分分快三',
+        'orderFrom' => '1',
+        'bAmount' => 5,
+        'moduleId' => '1',
+        'validBet' => '5',
+        'beijing_bet_time' => '2018-07-07 23:09:31',
+      ),
+      8 => 
+      array (
+        'id' => '111485',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522633',
+        'gameId' => '53',
+        'issueId' => '201807071390',
+        'aAmount' => -5,
+        'playName' => '和值12',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '540',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:31',
+        'gameName' => '分分快三',
+        'orderFrom' => '1',
+        'bAmount' => 5,
+        'moduleId' => '1',
+        'validBet' => '5',
+        'beijing_bet_time' => '2018-07-07 23:09:31',
+      ),
+      9 => 
+      array (
+        'id' => '111486',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522632',
+        'gameId' => '53',
+        'issueId' => '201807071390',
+        'aAmount' => -5,
+        'playName' => '和值11',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '539',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:31',
+        'gameName' => '分分快三',
+        'orderFrom' => '1',
+        'bAmount' => 5,
+        'moduleId' => '1',
+        'validBet' => '5',
+        'beijing_bet_time' => '2018-07-07 23:09:31',
+      ),
+      10 => 
+      array (
+        'id' => '111489',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522620',
+        'gameId' => '24',
+        'issueId' => '691613',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '68',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:04',
+        'gameName' => '北京赛车',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:09:04',
+      ),
+      11 => 
+      array (
+        'id' => '111490',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522619',
+        'gameId' => '24',
+        'issueId' => '691613',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '68',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:04',
+        'gameName' => '北京赛车',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:09:04',
+      ),
+      12 => 
+      array (
+        'id' => '111491',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522618',
+        'gameId' => '24',
+        'issueId' => '691613',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '68',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:04',
+        'gameName' => '北京赛车',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:09:04',
+      ),
+      13 => 
+      array (
+        'id' => '111492',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522617',
+        'gameId' => '24',
+        'issueId' => '691613',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '68',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:04',
+        'gameName' => '北京赛车',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:09:04',
+      ),
+      14 => 
+      array (
+        'id' => '111493',
+        'loginId' => 'zxc6666',
+        'orderId' => '4582522616',
+        'gameId' => '24',
+        'issueId' => '691613',
+        'aAmount' => -2,
+        'playName' => '定位胆',
+        'moduleName' => '彩票',
+        'orderStatus' => '4',
+        'playId' => '68',
+        'uid' => '40587962',
+        'orderTime' => '2018-07-07 11:09:04',
+        'gameName' => '北京赛车',
+        'orderFrom' => '1',
+        'bAmount' => 2,
+        'moduleId' => '1',
+        'validBet' => '2',
+        'beijing_bet_time' => '2018-07-07 23:09:04',
+      ),
+    ),
+    'currentPage' => '1',
+    'totalPage' => '1',
+    'countNum' => '15',
+  ),
+  'message' => '成功',
+)2018-07-07 23:15:10
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:16:01
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:18:01
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:20:58
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:23:47
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:25:47
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:27:48
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:29:48
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:31:49
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:33:49
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:35:50
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:37:51
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:39:51
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:41:52
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:43:53
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:45:54
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:47:54
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:49:55
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:51:56
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:53:56
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:55:57
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:57:57
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 16:59:57
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 17:01:57
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 17:03:58
+array (
+  'statusCode' => '01',
+  'data' => 
+  array (
+    'record' => 
+    array (
+    ),
+    'currentPage' => '1',
+    'totalPage' => '0',
+    'countNum' => '0',
+  ),
+  'message' => '成功',
+)2018-07-19 17:05:58
